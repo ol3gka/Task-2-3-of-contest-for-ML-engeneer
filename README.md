@@ -5,5 +5,5 @@ Solution for Tasks 2 and 3 of contest for ML engeneer at Skoltech (Skoltech Appl
 In root folder description of the tasks is presented 
 
 ```
-$ Задание на позицию инженер исследователь.docx
+Задание на позицию инженер исследователь.docx
 ```
