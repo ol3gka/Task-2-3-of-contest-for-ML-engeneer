@@ -1,5 +1,5 @@
 # Tasks 2 and 3
-Solution for Tasks 2 and 3 of contest for ML engeneer position at Skoltech Applied AI Center
+Solution for Tasks 2 and 3 of contest for ML engeneer position at Skoltech Applied AI Center by Nikolaev O.V.
 
 # Introduction
 In root folder description of the tasks is presented 
