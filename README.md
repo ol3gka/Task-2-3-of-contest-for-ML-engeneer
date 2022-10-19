@@ -1,2 +1,2 @@
 # Task-2-3-of-contest-for-ML-engeneer
-Task-2/3-of-contest-for-ML-engeneer at Skoltech
+Solution for Tasks 2/3 of contest for ML engeneer at Skoltech
