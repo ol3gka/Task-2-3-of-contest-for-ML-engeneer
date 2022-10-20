@@ -14,8 +14,8 @@ Intuition is in that approach that we have to invite friends with less connectio
 
 In the folder "Task 2" tree files are presented:
 1) *module.py* - module within classes with methods (simple graph, as well as random graph creation);
-2) *task2_solution* - Jupiter notebook with description of solution (*module.py* duplicated inside)
-3) Html version of *task2_solution* to preserve all pictures
+2) *task2_solution* - Jupiter notebook with description of solution (*module.py* duplicated inside);
+3) Html version of *task2_solution* to preserve all pictures.
 
 
 # Task 3
