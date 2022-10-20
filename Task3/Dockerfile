@@ -8,5 +8,5 @@ CMD ["echo","Hi User"]
 RUN git clone https://github.com/ol3gka/Tools.git
 RUN cd Tools/ \
 	#&& cat ex.txt \
-	&& chmod +x script1.s \
-	&& chmod +x script2.s
+	&& chmod +x script1.sh \
+	&& chmod +x script2.sh
