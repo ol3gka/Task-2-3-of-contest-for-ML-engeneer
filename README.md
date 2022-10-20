@@ -19,4 +19,14 @@ In the folder "Task 2" tree files are presented:
 
 
 # Task 3
-In the folder 2 and 3, content for Task 2 and Task 3 is presented accordingly
+To deal with 3d task (aka Linux), plz download dockerfile ("Dockerfile" from folder Task3 ) or clone it by git clone 
+
+To build dockerfile, run such command in terminal in folder with Dockerfile:
+```
+sudo docker build --no-cache .
+```
+Run dockerfile in interactive mode by (NOTE! that container ID b9fa7c44b29d will be different in your case):
+```
+sudo docker run -it b9fa7c44b29d /bin/bash
+```
+If everything will be correct you will see, that your are inside of container:
