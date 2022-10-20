@@ -30,3 +30,8 @@ Run dockerfile in interactive mode by (NOTE! that container ID b9fa7c44b29d will
 sudo docker run -it b9fa7c44b29d /bin/bash
 ```
 If everything will be correct you will see, that your are inside of container:
+
+<!-- #region -->
+<p align="center">
+<img  src="images/s1.png">
+</p>
