@@ -35,3 +35,18 @@ If everything will be correct you will see, that your are inside of container:
 <p align="center">
 <img  src="images/s1.png">
 </p>
+
+```
+cd Tools
+```
+
+To see results of task 1, run
+```
+sh script1.sh
+```
+It will create file top_words.txt with all words counted and also it will show on display top 30 words (with their count) from file dracula.txt
+
+<!-- #region -->
+<p align="center">
+<img  src="images/s2.png">
+</p>
