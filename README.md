@@ -21,11 +21,11 @@ In the folder "Task 2" tree files are presented:
 # Task 3
 To deal with 3d task (aka Linux), plz download dockerfile ("Dockerfile" from folder Task3) or clone it by git clone.
 
-To build dockerfile, run such command in terminal in folder with Dockerfile:
+To build docker image, run such command in terminal in folder with Dockerfile:
 ```
 sudo docker build --no-cache .
 ```
-Run dockerfile in interactive mode by (NOTE! that docker container ID b9fa7c44b29d will be different in your case):
+Create container in interactive mode by (NOTE! that docker container ID b9fa7c44b29d will be different in your case):
 ```
 sudo docker run -it b9fa7c44b29d /bin/bash
 ```
