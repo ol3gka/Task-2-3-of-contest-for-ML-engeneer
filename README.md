@@ -61,3 +61,11 @@ ls
 <p align="center">
 <img  src="images/s3.png">
 </p>
+To exis docker container run:
+```
+Ctrl+d
+```
+To shut down container run:
+```
+sudo docker rm b9fa7c44b29d
+```
