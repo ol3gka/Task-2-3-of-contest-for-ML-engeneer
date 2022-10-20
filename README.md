@@ -19,7 +19,7 @@ In the folder "Task 2" tree files are presented:
 
 
 # Task 3
-To deal with 3d task (aka Linux), plz download dockerfile ("Dockerfile" from folder Task3) or clone it by git clone. Dockerfile will use sh scripts from https://github.com/ol3gka/Tools
+To deal with 3d task (aka Linux), plz download dockerfile ("Dockerfile" from folder Task3) or clone it by git clone.
 
 To build dockerfile, run such command in terminal in folder with Dockerfile:
 ```
