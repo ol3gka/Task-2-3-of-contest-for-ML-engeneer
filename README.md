@@ -25,7 +25,7 @@ To build docker image, run such command in terminal in folder with Dockerfile:
 ```
 sudo docker build --no-cache .
 ```
-Create container in interactive mode by (NOTE! that docker container ID b9fa7c44b29d will be different in your case):
+Create container and run it in interactive mode by (NOTE! that docker container ID b9fa7c44b29d will be different in your case):
 ```
 sudo docker run -it b9fa7c44b29d /bin/bash
 ```
