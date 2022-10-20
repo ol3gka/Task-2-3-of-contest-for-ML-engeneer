@@ -25,7 +25,7 @@ To build dockerfile, run such command in terminal in folder with Dockerfile:
 ```
 sudo docker build --no-cache .
 ```
-Run dockerfile in interactive mode by (NOTE! that container ID b9fa7c44b29d will be different in your case):
+Run dockerfile in interactive mode by (NOTE! that docker container ID b9fa7c44b29d will be different in your case):
 ```
 sudo docker run -it b9fa7c44b29d /bin/bash
 ```
@@ -70,5 +70,11 @@ Ctrl+d
 To shut down container run:
 
 ```
-sudo docker rm b9fa7c44b29d
+sudo docker rm 8f4a2cb6f027
+```
+
+And to check active containers/images you can run - list should be empty at the end of the work
+
+```
+sudo docker container ls --all
 ```
