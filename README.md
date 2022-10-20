@@ -40,13 +40,24 @@ If everything will be correct you will see, that your are inside of container:
 cd Tools
 ```
 
-To see results of task 1, run
+To obtain results of subtask 1, run command below. It will create file top_words.txt with all words counted and also it will show on display top 30 words (with their count) from file dracula.txt
 ```
 sh script1.sh
 ```
-It will create file top_words.txt with all words counted and also it will show on display top 30 words (with their count) from file dracula.txt
+
 
 <!-- #region -->
 <p align="center">
 <img  src="images/s2.png">
+</p>
+
+To obtain results of subtask 2, run command below. It will create folder top10_files in which files with name and count frequency are presented, as it required in the task.
+```
+sh script2.sh
+cd top10_files
+ls
+```
+<!-- #region -->
+<p align="center">
+<img  src="images/s3.png">
 </p>
